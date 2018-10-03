@@ -1,0 +1,4 @@
+Bundle-Name: campaign-push-manager
+Bundle-SymbolicName: com.jfeeney.campaign
+Bundle-Version: 1.0.0
+Export-Package: com.jfeeney.campaign.constants
